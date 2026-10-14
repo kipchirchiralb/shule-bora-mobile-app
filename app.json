@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "shuleboraapp",
-    "slug": "shuleboraapp",
+    "slug": "shulebora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,6 +19,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5fc96c72-1159-4dec-9619-9893d224c5a5"
+      }
+    },
+    "owner": "albertkipchirchir"
   }
 }
