@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "shuleboraapp",
-    "slug": "shulebora",
+    "slug": "shuleborapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,14 +15,15 @@
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "package": "com.albertkipchirchir.shuleborapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "5fc96c72-1159-4dec-9619-9893d224c5a5"
+        "projectId": "3b04d7d9-4fcc-41c3-a717-d3d0e4d9edb0"
       }
     },
     "owner": "albertkipchirchir"
